@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastSender</string>
+    <string name="static_broadcast">"发送静态注册广播"</string>
+    <string name="dynamic_broadcast">"发送动态注册广播"</string>
+</resources>

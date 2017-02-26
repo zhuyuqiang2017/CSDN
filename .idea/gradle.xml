@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/broadcastsender" />
+            <option value="$PROJECT_DIR$/explodedview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

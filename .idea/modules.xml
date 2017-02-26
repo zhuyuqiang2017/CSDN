@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
       <module fileurl="file://$PROJECT_DIR$/broadcastsender/broadcastsender.iml" filepath="$PROJECT_DIR$/broadcastsender/broadcastsender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/explodedview/explodedview.iml" filepath="$PROJECT_DIR$/explodedview/explodedview.iml" />
     </modules>
   </component>
 </project>

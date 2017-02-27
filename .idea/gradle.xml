@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/broadcastsender" />
             <option value="$PROJECT_DIR$/explodedview" />
+            <option value="$PROJECT_DIR$/recycleviewdemo" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

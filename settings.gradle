@@ -1,1 +1,1 @@
-include ':app', ':broadcastsender', ':broadcastreceiver', ':explodedview'
+include ':app', ':broadcastsender', ':broadcastreceiver', ':explodedview', ':recycleviewdemo'

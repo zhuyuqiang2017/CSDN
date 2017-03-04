@@ -9,11 +9,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/broadcastreceiver" />
-            <option value="$PROJECT_DIR$/broadcastsender" />
-            <option value="$PROJECT_DIR$/explodedview" />
-            <option value="$PROJECT_DIR$/recycleviewdemo" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/recylerwithindex" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

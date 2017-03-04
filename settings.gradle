@@ -1,1 +1,2 @@
-include ':app', ':broadcastsender', ':broadcastreceiver', ':explodedview', ':recycleviewdemo'
+include ':okhttpdemo',':recylerwithindex'
+//include ':app', ':broadcastsender', ':broadcastreceiver', ':explodedview',':recycleviewdemo',':spellchecker', ':ocr',,':recycleviewdemo', ':timinglogger', ':screenshot', ':converttopdf', ':recylerwithindex',

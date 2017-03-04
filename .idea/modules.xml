@@ -3,11 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CSDN.iml" filepath="$PROJECT_DIR$/CSDN.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" filepath="$PROJECT_DIR$/broadcastreceiver/broadcastreceiver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/broadcastsender/broadcastsender.iml" filepath="$PROJECT_DIR$/broadcastsender/broadcastsender.iml" />
-      <module fileurl="file://$PROJECT_DIR$/explodedview/explodedview.iml" filepath="$PROJECT_DIR$/explodedview/explodedview.iml" />
-      <module fileurl="file://$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" filepath="$PROJECT_DIR$/recycleviewdemo/recycleviewdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recylerwithindex/recylerwithindex.iml" filepath="$PROJECT_DIR$/recylerwithindex/recylerwithindex.iml" />
     </modules>
   </component>
 </project>
